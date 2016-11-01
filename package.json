@@ -1,0 +1,30 @@
+{
+  "name": "vue-number-validator",
+  "version": "0.0.0",
+  "description": "A number input and validator for vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/teddberlin/vue-number-validator.git"
+  },
+  "keywords": [
+    "vue",
+    "input",
+    "validator",
+    "number",
+    "i18n",
+    "html"
+  ],
+  "author": "Glen Keane <glenkeane.94@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/teddberlin/vue-number-validator/issues"
+  },
+  "homepage": "https://github.com/teddberlin/vue-number-validator#readme",
+  "devDependencies": {
+    "standard": "^8.5.0"
+  }
+}
